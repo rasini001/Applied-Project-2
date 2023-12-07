@@ -57,7 +57,7 @@
 
     <nav class="body">
       <div class="container">
-        <div class="box" style="min-height:630px; min-width: 930px; padding: 10px 10px 10px 10px; align-items: right;">
+        <div class="box" style="min-height:930px; min-width: 630px; padding: 10px 10px 10px 10px; align-items: right;">
     
         </div>
     </nav>
